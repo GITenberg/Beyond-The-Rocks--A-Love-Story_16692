@@ -21,6 +21,8 @@ description: "Beyond the Rocks is a 1906 novel by Elinor Glyn. The novel was lat
   \ guide one's bark [on the river of life] past the rocks and safely into the smooth\
   \ waters of the pool beyond.\" Frequently thereafter, the characters long for angels\
   \ who will steer them \"beyond the rocks.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16692#Beyond-The-Rocks--A-Love-Story
 gutenberg_issued: '2005-09-14'
 gutenberg_type: Text
 identifiers:
