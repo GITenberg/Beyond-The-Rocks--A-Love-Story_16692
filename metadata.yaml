@@ -1,0 +1,41 @@
+_repo: Beyond-The-Rocks--A-Love-Story_16692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glyn, Elinor
+    alias: Glyn, Elinor Sutherland
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '1762'
+    url: http://www.gutenberg.org/2009/agents/1762
+    wikipedia: http://en.wikipedia.org/wiki/Elinor_Glyn
+description: "Beyond the Rocks is a 1906 novel by Elinor Glyn. The novel was later\
+  \ adapted into a 1922 silent film in which Gloria Swanson and Rudolph Valentino\
+  \ (credited as Rodolph Valentino) starred together for the only time. The film was\
+  \ directed by Sam Wood and distributed by Paramount Pictures.\nThe novel's title\
+  \ comes from a conversation in Chapter 4 about the nature of Fate, where the main\
+  \ character expresses belief that \"if one does one's best some kind angel will\
+  \ guide one's bark [on the river of life] past the rocks and safely into the smooth\
+  \ waters of the pool beyond.\" Frequently thereafter, the characters long for angels\
+  \ who will steer them \"beyond the rocks.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16692'
+  wikidata: Q3881939
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+title: 'Beyond The Rocks: A Love Story'
+url: http://www.gutenberg.org/ebooks/16692
+wikipedia:
+- https://en.wikipedia.org/wiki/Beyond_the_Rocks
+- https://it.wikipedia.org/wiki/Oltre_gli_scogli
